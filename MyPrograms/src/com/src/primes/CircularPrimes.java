@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Program to list and total the circular prime numbers between 1 and 1,000,000
- * linea retitard
+ * 
  * @author Carlos Steven Ramírez
  * @version 1.0
  */
